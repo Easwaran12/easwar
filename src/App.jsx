@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React, { useState } from "react";
 import "./index.css";
 import student from "./Components/StudentsData";
-import FrontPage from "./Components/FrontPage";
+import FrontPage from "./Components/Frontpage";
 // import AttendanceTable from "./AttendanceTable";
 import Header from "./Components/Header";
 import AttendanceTable from "./pages/AttendanceTable";
